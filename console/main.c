@@ -5,7 +5,7 @@
 #include <mongoc/mongoc.h>
 
 // MongoDB connection information
-#define MONGO_URI "mongodb+srv://comicly:cheeselover0@about.yaek1bk.mongodb.net/"
+#define MONGO_URI "*"
 #define DB_NAME "user_info"
 #define COLLECTION_NAME "users"
 
